@@ -1,6 +1,7 @@
+// https://replit.com/@CARONAPRAEX/Exercicio-04-ADO-2#Main.java
 import java.util.Scanner;
 
-public class Exercicio04 {
+public class Exercicio04ADO2 {
 
   public static void main(String[] args) {
     Scanner entrada = new Scanner(System.in);

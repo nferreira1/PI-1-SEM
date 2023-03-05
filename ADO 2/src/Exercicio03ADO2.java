@@ -1,7 +1,7 @@
-// https://replit.com/@CARONAPRAEX/Exercicio-03#Main.java
+// https://replit.com/@CARONAPRAEX/Exercicio-03-ADO-2#Main.java
 import java.util.Scanner;
 
-public class Exercicio03 {
+public class Exercicio03ADO2 {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
